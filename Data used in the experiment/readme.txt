@@ -1,0 +1,1 @@
+Part of the data used in the experiment is one of the paths, from left to right, they are the real path, the path predicted by the LSTM algorithm with a delay of 0.4s, the path predicted by the LSTM algorithm with a delay of 0.6s, the path predicted by the Bi-LSTM algorithm with a delay of 0.8s, and the delay path.
